@@ -1,0 +1,6 @@
+framework module COSPaySDK {
+  umbrella header "COSPaySDK.h"
+
+  export *
+  module * { export * }
+}
